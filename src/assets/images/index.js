@@ -7,3 +7,4 @@ export { default as img6 } from './6.jpg';
 export { default as img7 } from './7.jpg';
 export { default as img8 } from './8.jpg';
 export { default as img9 } from './9.jpg';
+export { default as img10 } from './rollo.png';
