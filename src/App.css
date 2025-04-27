@@ -6,9 +6,8 @@
 }
 
 .card {
-	background-image: url('./assets/images/pergamino.jpg');
+	background-image: url('./assets/images/rectangle1.svg');
 	background-repeat: no-repeat;
-	background-attachment: fixed;
-	background-position: center;
-	background-size: cover;
+
+	background-size: 98% 70%;
 }
