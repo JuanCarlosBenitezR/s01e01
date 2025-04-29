@@ -1,4 +1,4 @@
-.container {
+.containerApp {
 	background-color: #ccc;
 	height: 100dvh;
 	display: grid;
@@ -9,5 +9,5 @@
 	background-image: url('./assets/images/rectangle1.svg');
 	background-repeat: no-repeat;
 
-	background-size: 98% 70%;
+	background-size: 100% 90%;
 }
